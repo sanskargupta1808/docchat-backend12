@@ -1,0 +1,52 @@
+Sanskar Gupta 
+Machine Learning | Computer Vision | Python Developer 
+📍 Gujarat, India | 📧 sanskarengupta123@gmail.com | 📞 +91-9328497805|                 
+🌐 sanskargupta.dev | GitHub https://github.com/sanskargupta1808 
+Education 
+Vellore Institute of Technology, Chennai 
+B.Tech in Computer Science and Engineering 
+Specialization: Artificial Intelligence and Robotics 
+2021 – 2025 
+Technical Skills 
+• Programming Languages: Python, Java, C++, JavaScript, Swift 
+• AI/ML/DL Frameworks: TensorFlow, Keras, PyTorch, scikit-learn, XGBoost 
+• Computer Vision: OpenCV, MediaPipe, YOLO, SSD 
+• Data Science: Pandas, NumPy, Matplotlib, Seaborn 
+• Web Development: HTML, CSS, JS 
+• Application Development: Flutter (Dart), Node.js, Express.js, Firebase, Django 
+• Cloud/Automation: AWS, Google Cloud, Python (Scripting, Process Automation) 
+• Tools: Git, Docker, Postman, Linux, MatLab, Arudino & Raspberry Pi with multiple sensors 
+• DevOps Tools: Jenkins, Maven, Liquibase, Artifactory, Git, Shell Scripting 
+Projects 
+•
+GestureBridge: Built a multimodal system allowing users to control systems via gestures, 
+voice, and gaze with real-time MediaPipe hand-tracking and PyQt interface. 
+•
+Fundus Eye Disease Classifier: Developed a CNN-based model to classify 28 types of retinal 
+diseases from fundus images, achieving high diagnostic accuracy. 
+•
+Body Fat Estimation System: Created an AI model estimating body fat percentage from full-
+body images using pose detection and predictive modeling. 
+•
+Emotion Analyzing System: Implemented an ML-driven emotion classifier using LSTM and 
+SVM models to predict emotional states from social media and journal entries. 
+•
+Self-Balancing Robot: Designed and controlled a two-wheel robot using PID control logic for 
+real-time balance and obstacle avoidance. 
+•
+Room and Space Mapping Robot: Built a SONAR-based autonomous robot to map spaces 
+using rotating ultrasonic sensors, replicating LiDAR functionality affordably. 
+•
+Database Automation : Automated database automation using Jenkins and Mavins along 
+with Liquibase, can be used by large entreprise during updates. 
+•
+Others : For other projects, please click here. 
+Achievements 
+• Winner of GDSC Hackathon  
+• Finalist: Android Club Hackathon (Android App Development) 
+• Finalist: Formulathon (Autonomous Formula Car Solutions) 
+• Certifications :  Cleared AWS Certified Cloud Practitioner (CP) and AWS Certified Solutions 
+Architect –     Associate (SAA), Aritifical Intelligence (IBM) 
+• Other Certifications (Udemy) : Python Programming, Machine Learning, DSA, Flutter, Artifical 
+Intelligence, Computer Vision 
+ 

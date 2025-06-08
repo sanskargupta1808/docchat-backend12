@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+openai
+sqlalchemy
+firebase-admin
+pydantic
+aiofiles
+firebase-admin==6.5.0
